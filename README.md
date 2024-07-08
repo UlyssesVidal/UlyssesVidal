@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you can find a collection of my projects, ski
 
 ## 🎓 Education
 
-- **Diploma in Business Intelligence**
+-**Diploma in Business Intelligence**
 Fundación Carlos Slim | Dec. 2023 - Mar. 2024
 
 -📜**Diplomado Data Science**
