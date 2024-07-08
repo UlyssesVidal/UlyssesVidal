@@ -4,23 +4,38 @@ Welcome to my GitHub profile! Here you can find a collection of my projects, ski
 
 ## 🎓 Education
 
-- 🎓**Ingeniero Civil Industrial**  
-  Universidad del Bío Bío | Mar. 2018 - Apr. 2023
+-📜**Diploma in Business Intelligence**
+Fundación Carlos Slim | Dec. 2023 - Mar. 2024
 
-- 📜**Diploma in Digital Marketing and Strategic Management** 
-  AIEP, Sence and Fundación Telefónica Movistar | Aug. 2022 - Oct. 2022
+-📜**Diplomado Data Science**
+Máxima Formación | May 2023 - Jan. 2024
 
-- 📜**Diploma in Business Intelligence**  
-  Fundación Carlos Slim | Dec. 2023 - Mar. 2024
+-📜**Diploma in Digital Marketing and Strategic Management**
+AIEP, Sence and Fundación Telefónica Movistar | Aug. 2022 - Oct. 2022
 
-- 📜**Diplomado Data Science**  
-   Máxima Formación | may. 2023 - ene. 2024
+-🎓**Ingeniero Civil Industrial**
+Universidad del Bío Bío | Mar. 2018 - Apr. 2023
+
+
+## 📚 Courses and Certifications
+-💻**Complete Bootcamp on MySQL: From Beginner to Expert in SQL**
+Udemy | May. 2024
+
+-💻**Business Analytics with Python and ChatGPT: From Zero to Expert**
+Udemy | Apr. 2024
+
+-💻**Machine Learning de A a la Z: R y Python para Data Science**
+Udemy | Jun. 2023 - Jan. 2024
+
+-💻**Análisis computacional de datos de Google**
+Coursera | Jul. 2023 - Sep. 2023
+
+-💻**Excel Básico, Intermedio y Avanzado**
+Máxima Formación | Jun. 2023
+
+-💻**Herramientas de Power BI Avanzado aplicadas a la gestión laboral**
+Universidad de Concepción | Apr. 2023 - Jun. 2023
   
-- 📜**Business Analytics with Python and ChatGPT: From Zero to Expert**  
-  Udemy | Apr. 2024
-
-- 📜**Complete Bootcamp on MySQL: From Beginner to Expert in SQL**  
-  Universidad de Concepción | Apr. 2023 - Jun. 2023
 
 ## 🛠️ Skills
 
@@ -31,16 +46,25 @@ Welcome to my GitHub profile! Here you can find a collection of my projects, ski
   - Intermediate: Minitab, MySQL, Project, Python, RStudio, SAP Business One
 - **Languages**: Spanish (Native) | Intermediate English
 
-## 🚀 Projects
 
-- **Financial and Operational Data Analysis**  
+## 💼 Experience
+
+- **Financial and Operational Data Analysis in construction company called 'Empresas Valmar'**  
   Collected, processed, and analyzed large datasets from multiple sources to support decision-making through interactive Power BI dashboards.
 
-- **Operational Reporting**  
+- **Operational Reporting in fishing company called 'Orizon'**  
   Developed comprehensive reports and dashboards to visualize key insights and trends for organizational efficiency.
 
-- **Project Feasibility Analysis**  
+- **Project Feasibility Analysis in food company called 'Embosur S.A'**  
   Conducted market research and viability analysis for new projects, including economic, environmental, and technical assessments.
+
+
+
+## 🚀 Proyects
+
+
+
+
 
 ## 🌐 Connect with Me
 
