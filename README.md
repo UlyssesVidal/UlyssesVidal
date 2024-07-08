@@ -4,36 +4,36 @@ Welcome to my GitHub profile! Here you can find a collection of my projects, ski
 
 ## 🎓 Education
 
--**Diploma in Business Intelligence** 📜
+- 📜**Diploma in Business Intelligence**
 Fundación Carlos Slim | Dec. 2023 - Mar. 2024
 
 - 📜**Diplomado Data Science**
 Máxima Formación | May 2023 - Jan. 2024
 
--📜**Diploma in Digital Marketing and Strategic Management**
+- 📜**Diploma in Digital Marketing and Strategic Management**
 AIEP, Sence and Fundación Telefónica Movistar | Aug. 2022 - Oct. 2022
 
--🎓**Ingeniero Civil Industrial**
+- 🎓**Ingeniero Civil Industrial**
 Universidad del Bío Bío | Mar. 2018 - Apr. 2023
 
 
 ## 📚 Courses and Certifications
--💻**Complete Bootcamp on MySQL: From Beginner to Expert in SQL**
+- 💻**Complete Bootcamp on MySQL: From Beginner to Expert in SQL**
 Udemy | May. 2024
 
--💻**Business Analytics with Python and ChatGPT: From Zero to Expert**
+- 💻**Business Analytics with Python and ChatGPT: From Zero to Expert**
 Udemy | Apr. 2024
 
--💻**Machine Learning de A a la Z: R y Python para Data Science**
+- 💻**Machine Learning de A a la Z: R y Python para Data Science**
 Udemy | Jun. 2023 - Jan. 2024
 
--💻**Análisis computacional de datos de Google**
+- 💻**Análisis computacional de datos de Google**
 Coursera | Jul. 2023 - Sep. 2023
 
--💻**Excel Básico, Intermedio y Avanzado**
+- 💻**Excel Básico, Intermedio y Avanzado**
 Máxima Formación | Jun. 2023
 
--💻**Herramientas de Power BI Avanzado aplicadas a la gestión laboral**
+- 💻**Herramientas de Power BI Avanzado aplicadas a la gestión laboral**
 Universidad de Concepción | Apr. 2023 - Jun. 2023
   
 
