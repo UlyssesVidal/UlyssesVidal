@@ -64,7 +64,10 @@ Universidad de Concepción | Apr. 2023 - Jun. 2023
 Review my projects that I have carried out throughout my journey in the world of data science.
 
 - 🖥️**Power BI Portfolio**: You will find my dashboards created on my own by researching the tool and learning about it.
-  - [![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/UlyssesVidal/portafolio_power_bi)
+  -<a href="https://github.com/UlyssesVidal/portafolio_power_bi">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" height="20">
+</a>
+
 
 
 
