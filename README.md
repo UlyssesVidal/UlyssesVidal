@@ -68,11 +68,6 @@ Review my projects that I have carried out throughout my journey in the world of
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" height="20">
 </a>
 
- - <a href="https://github.com/UlyssesVidal/portafolio_power_bi">
-    <img src="https://www.pngwing.com/es/free-png-pgglw" alt="GitHub Logo" width="20" height="20">
-</a>
-
-
 
 
 ## 🌐 Connect with Me
