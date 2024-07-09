@@ -13,7 +13,7 @@ Máxima Formación | May 2023 - Jan. 2024
 - 📜**Diploma in Digital Marketing and Strategic Management**
 AIEP, Sence and Fundación Telefónica Movistar | Aug. 2022 - Oct. 2022
 
-- 🎓**Ingeniero Civil Industrial**
+- 👨‍🎓**Ingeniero Civil Industrial**
 Universidad del Bío Bío | Mar. 2018 - Apr. 2023
 
 
@@ -49,8 +49,8 @@ Universidad de Concepción | Apr. 2023 - Jun. 2023
 
 ## 💼 Experience
 
-- **Financial and Operational Data Analysis in construction company called 'Empresas Valmar'**  
-  Collected, processed, and analyzed large datasets from multiple sources to support decision-making through interactive Power BI dashboards.
+- **Financial and Operational Data Analysis in construction company called 'Empresas Valmar'**
+  - Collected, processed, and analyzed large datasets from multiple sources to support decision-making through interactive Power BI dashboards.
 
 - **Operational Reporting in fishing company called 'Orizon'**  
   Developed comprehensive reports and dashboards to visualize key insights and trends for organizational efficiency.
@@ -67,6 +67,11 @@ Review my projects that I have carried out throughout my journey in the world of
   - <a href="https://github.com/UlyssesVidal/portafolio_power_bi">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20" height="20">
 </a>
+
+
+## Hobbies and Interests 🌟
+- 🔫 Passionate about first-person shooter games.
+- ⚽ I love watching soccer and playing it occasionally.
 
 
 
