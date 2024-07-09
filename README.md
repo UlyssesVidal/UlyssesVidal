@@ -52,11 +52,11 @@ Universidad de Concepción | Apr. 2023 - Jun. 2023
 - **Financial and Operational Data Analysis in construction company called 'Empresas Valmar'**
   - Collected, processed, and analyzed large datasets from multiple sources to support decision-making through interactive Power BI dashboards.
 
-- **Operational Reporting in fishing company called 'Orizon'**  
-  Developed comprehensive reports and dashboards to visualize key insights and trends for organizational efficiency.
+- **Operational Reporting in fishing company called 'Orizon'**
+  - Developed comprehensive reports and dashboards to visualize key insights and trends for organizational efficiency.
 
-- **Project Feasibility Analysis in food company called 'Embosur S.A'**  
-  Conducted market research and viability analysis for new projects, including economic, environmental, and technical assessments.
+- **Project Feasibility Analysis in food company called 'Embosur S.A'**
+  - Conducted market research and viability analysis for new projects, including economic, environmental, and technical assessments.
 
 
 
