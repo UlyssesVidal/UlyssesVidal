@@ -39,9 +39,9 @@ Universidad de Concepción | Apr. 2023 - Jun. 2023
 
 ## 🛠️ Skills
 
-- **Technical Competencies**: Data Analysis | Statistical Process Control | Econometrics | Data Extraction, Cleaning, and Visualization | Machine Learning
-- **Soft Skills**: Adaptability | Effective Communication | Analytical Thinking | Problem Solving | Teamwork
-- **Software Proficiency**:
+- 👩‍💻**Technical Competencies**: Data Analysis | Statistical Process Control | Econometrics | Data Extraction, Cleaning, and Visualization | Machine Learning
+- **🤝Soft Skills**: Adaptability | Effective Communication | Analytical Thinking | Problem Solving | Teamwork
+  💻**Software Proficiency**:
   - Advanced: Power BI, Excel, PowerPoint, Word
   - Intermediate: Minitab, MySQL, Project, Python, RStudio, SAP Business One
 - **Languages**: Spanish (Native) | Intermediate English
