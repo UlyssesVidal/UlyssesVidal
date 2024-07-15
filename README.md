@@ -101,4 +101,5 @@ Review my projects that I have carried out throughout my journey in the world of
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vidalulysses) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulysses-vidal-saavedra-5203ba22b/) 
 - [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaavedraUlysses) 
+
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on exciting projects.
