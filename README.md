@@ -70,8 +70,7 @@ Universidad de Concepción | Apr. 2023 - Jun. 2023
 
 ## 🚀 Proyects
 Review my projects that I have carried out throughout my journey in the world of data science.
-
-- 📊**[Power BI Portfolio](https://github.com/UlyssesVidal/portafolio_power_bi)**: You will find my dashboards created on my own by researching the tool and learning about it.
+- 📊 **[Power BI Portfolio](https://github.com/UlyssesVidal/portafolio_power_bi)**: You will find my dashboards created on my own by researching the tool and learning about it.
 - 📊 **[Data Analysis Portfolio](https://github.com/UlyssesVidal/Portafolio_Data_Analytics)**: You will find my data analyses, where I apply various techniques and tools to extract valuable insights from the information.
 - 🤖 **[Machine Learning Portfolio](https://github.com/UlyssesVidal/Portafolio_Machine_Learning)**: Explore my machine learning projects, where I develop predictive models and advanced algorithms to solve complex problems.
 
