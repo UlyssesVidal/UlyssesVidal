@@ -71,15 +71,15 @@ Universidad de Concepción | Apr. 2023 - Jun. 2023
 ## 🚀 Proyects
 Review my projects that I have carried out throughout my journey in the world of data science.
 
-- 📊**Power BI Portfolio**: You will find my dashboards created on my own by researching the tool and learning about it.
-  - [My Power BI portfolio](https://github.com/UlyssesVidal/portafolio_power_bi)
-
+- 📊**[Power BI Portfolio](https://github.com/UlyssesVidal/portafolio_power_bi)**: You will find my dashboards created on my own by researching the tool and learning about it.
+- 📊 **[Data Analysis Portfolio](https://github.com/UlyssesVidal/Portafolio_Data_Analytics)**: You will find my data analyses, where I apply various techniques and tools to extract valuable insights from the information.
+- 🤖 **[Machine Learning Portfolio](https://github.com/UlyssesVidal/Portafolio_Machine_Learning)**: Explore my machine learning projects, where I develop predictive models and advanced algorithms to solve complex problems.
 
 ## Hobbies and Interests 🌟
 - 🔫 Passionate about first-person shooter games.
 - ⚽ I love watching soccer and playing it occasionally.
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 - ![](https://github-readme-stats.vercel.app/api?username=UlyssesVidal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 - ![](https://github-readme-streak-stats.herokuapp.com/?user=UlyssesVidal&theme=tokyonight&hide_border=false)<br/>
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UlyssesVidal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
